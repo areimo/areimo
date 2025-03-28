@@ -1,5 +1,5 @@
 # 💫 About Me:
-🗣️ ENG/ESP<br>😺✨Cat lover<br>👾💻 Coding just for fun (and trying to learn something new)<br>
+🗣️ ENG/ESP<br>😺✨Cat lover<br>👾💻Coding just for fun (and trying to learn something new)<br>🍃Sleep deprived and anxious
 
 
 # 💻 Tech Stack:
