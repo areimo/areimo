@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/python-original.svg](https://icons8.com/icon/13441/python)" height="40" alt="python logo"  />
+    <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="40" alt="python logo"  />
   <img width="12" />
 </div>
 
