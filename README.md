@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1b3cd240-4d7c-4f5f-96fb-474fb5d07a2d)
+
 # 💫 About Me:
 🗣️👋 ENG/ESP (native)<br>😺🕊️ Cat & Pigeon lover<br>👾💻 Coding (trying)<br>🍃💧 Sleep deprived and anxious<br>
 
